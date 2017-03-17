@@ -8,8 +8,7 @@
             "email": "art90com@gmail.com"
         }
     ],
-    "minimum-stability": "dev",
-    "prefer-stable": "true",
+    "minimum-stability": "stable",
     "require": {
         "php": ">=5.3.0"
     }
