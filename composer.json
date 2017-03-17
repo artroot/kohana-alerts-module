@@ -1,5 +1,6 @@
 {
     "name": "artroot/kohana-alerts-module",
+    "minimum-stability": "stable",
     "description": "Alert builder for Kohana modules",
     "authors": [
         {
